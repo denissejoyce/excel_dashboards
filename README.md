@@ -1,5 +1,4 @@
-<h2 align="center">Excel Projects in this Repo</h2>
-======
+<h1 align="center">EXCEL PROJECTS IN THIS REPO</h1>
 
 ### [Bike Sales Dashboard](https://github.com/denissejoyce/excel_dashboards/blob/main/bike-sales-dashboard.xlsx)
 ------
