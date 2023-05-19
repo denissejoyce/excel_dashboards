@@ -14,6 +14,10 @@
 * The dashboard can be helpful for anyone trying to look for a salary comparison in Data Science jobs from the year 2020 to 2023.
 <br>
 <img width="1562" alt="image" src="https://github.com/denissejoyce/excel_dashboards/assets/88027347/3cda14bd-5215-4469-9585-2250009b24dd" align="center">
+<br>
+<br>
 
-
+### Sales Dashboard
+-----
+* This dashboard is made using this sample sales [Kaggle dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data).
 
