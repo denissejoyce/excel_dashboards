@@ -17,7 +17,7 @@
 <br>
 <br>
 
-### Sales Dashboard
+### [Sales Dashboard](https://github.com/denissejoyce/excel_dashboards/blob/main/sales_data_sample.xlsx)
 -----
 * This dashboard is made using this sample sales [Kaggle dataset](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data).
 * The dashboard shows various useful data such as: the company's total sales from the year 2003-2005 (which can be filtered by territory and product type), the most profitable customer with their amount spent, total number of products shipped, country where the most products are shipped, quarterly deal size count (that can be filtered by year), and regional quarterly sales (which can also be filtered by year). 
